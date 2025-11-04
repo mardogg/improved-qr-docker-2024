@@ -53,7 +53,11 @@ python -m pytest --cov=main --cov-report=term-missing
 
 ## My GitHub QR Code
 
-![mardogg GitHub QR](qr_codes/mardogg_qr.png)
+![mardogg GitHub QR](qr_codes/mardogg_qr_final.png)
+
+
+
+
 
 
 2.  Add an image of viewing the log of successfully creating the QR code below.
